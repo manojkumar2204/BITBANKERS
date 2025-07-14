@@ -33,9 +33,9 @@ EcoPoints/
 ### **Prerequisites**
 - Java JDK 8 or above
 - MySQL Database
-- IDE (NetBeans, IntelliJ, Eclipse, etc.)
+- IDE (Eclipse)
 
 ### **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/EcoPoints.git
+   git clone https://github.com/manojKumar2204/EcoPoints.git
